@@ -1,13 +1,13 @@
 <h1><strong>Microsoft365.com/setup/personal || Microsoft365.com/setup</strong></h1>
 <a href=""><img src="Get-Started.png"></a>
-<p><strong>Microsoft365.com/setup/personal</strong> is an official link to get Microsoft 365 personal setup onto your device. For that user to register the 25 digits office product key with Microsoft Account. After complete the key activation process user will get the option to download the setup file for Microsoft 365 product. Here we go with the step to download, Install and the activation process of <strong>Microsoft 365 personal</strong>.</p>
+<p><a href="https://msoft365.github.io/microsoft365setuppersonal/"><strong>Microsoft365.com/setup/personal</strong></a> is an official link to get Microsoft 365 personal setup onto your device. For that user to register the 25 digits office product key with Microsoft Account. After complete the key activation process user will get the option to download the setup file for Microsoft 365 product. Here we go with the step to download, Install and the activation process of <strong>Microsoft 365 personal</strong>.</p>
 <p>First of all, the user should have a Microsoft account in order to activate office product key online. So, let&rsquo;s know: -</p>
 &nbsp;
 <h3><strong>How to create Microsoft account?</strong></h3>
 <p>To create Microsoft account user, need to follow the steps written below: -</p>
 <ol>
 <li>Open Internet Browser on your device</li>
-<li>Visit URL: - <strong>Microsoft365.com/setup/personal</strong></li>
+<li>Visit URL: - <a href="https://msoft365.github.io/microsoft365setuppersonal/"><strong>Microsoft365.com/setup/personal</strong></a></li>
 <li>Tap on Create a New Account</li>
 <li>Tap on Create One</li>
 <li>Enter Your Email Address &amp; Password</li>
@@ -22,7 +22,7 @@
 <p>Here are some steps listed below to <strong>activate office product key</strong> online: -</p>
 <ul>
 <li>Open Internet Browser on your device</li>
-<li>Visit URL: - <strong>Microsoft365.com/setup</strong></li>
+<li>Visit URL: - <a href="https://msoft365.github.io/microsoft365setuppersonal/"><strong>Microsoft365.com/setup</strong></a></li>
 <li>Sign-in with Microsoft Account</li>
 <li>Enter 25 digits office product key</li>
 <li>Choose Language &amp; Country</li>
